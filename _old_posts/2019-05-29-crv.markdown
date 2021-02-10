@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Never Stop Learning: The Effectiveness of Fine-Tuning in Robotic Reinforcement Learning"
+date:   2020-11-18 00:00:00 +00:00
+image: /images/crv19.png
+categories: research
+author: "Ryan Julian"
+authors: "<strong>Ryan Julian</strong>, Benjamin Swanson, Gaurav S. Sukhatme, Sergey Levine, Chelsea Finn, Karol Hausman"
+venue: "Conference on Robot Learning"
+arxiv: https://arxiv.org/abs/2004.10190
+slides: /pdfs/crv19-slides.pdf
+slides: /pdfs/crv19-slides.pdf
+---
+
+We formulate a fine-tuning procedure for off-policy reinforcement learning which is simple, fast, effective, and sample-efficient. We then show that it can be used to adapt robotic manipulation policies to novel environments, lighting conditions, objects, robot wear-and-tear, etc. in a continual learning setting.

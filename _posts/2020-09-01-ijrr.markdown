@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Scaling Simulation-to-Real Transfer by Learning a Latent Space of Robot Skills"
+date:   2020-09-01 00:00:00 +00:00
+image: images/ijrr.jpg
+categories: research
+author: "Ryan Julian"
+authors: "<strong>Ryan Julian</strong>, Eric Heiden, Zhanpeng He, Hejia Zhang, Stefan Schaal, Joseph J. Lim, Gaurav S. Sukhatme, Karol Hausman"
+venue: "International Journal of Robotics Research"
+paper: https://journals.sagepub.com/doi/abs/10.1177/0278364920944474
+code: https://github.com/ryanjulian/embed2learn
+---
+
+We show how to embed robotic manipulation skills into a continuously-parameterized space using variational inference, how useful these learned skill spaces for addressing several important problems in robot learning. We demonstrate how to use them to achieve sim2real transfer, long-horizon hierarchical RL, and meta-RL, all in real manipulation experiments. We conclude by designing an MPC-like algorithm for zero-shot skill learning in latent space, which allows us to generalize simpler skills, such as reaching, into more complex combinations of those skills, such as drawing.
