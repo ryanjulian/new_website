@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Cooperative Control and Modeling for Narrow Passage Traversal with an Ornithoper MAV and Lightweight Ground Station"
+date:   2013-05-6 00:00:00 +00:00
+image: images/aamas2013.png
+categories: research
+author: "Ryan Julian"
+authors: "<strong>Ryan Julian</strong>, Cameron J. Rose, Humphrey Hu, Ronald S. Fearing"
+venue: "Autonomous Agents and Multiagent Systems"
+paper: pdfs/aamas2013.pdf
+video: https://youtu.be/poQQJd1yBVo
+code: https://github.com/ryanjulian/h2bird-tracking
+---
+
+We demonstrate cooperation for target-seeking between a 13-gram ornithopter (flapping-wing) MAV and a lightweight ground station equipped with computer vision. The ground station simulates the compute and sensing capabilities of a lightweight insect-inspired walking robot, and communicates with the MAV with live streaming video. This work also introduces a new ornithopter MAV design, which improves on the payload, control, and maneuverability of previous designs. This design, dubbed the H<sup>2</sup>Bird, served as a model for many future ornithopter designs.

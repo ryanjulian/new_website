@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Scaling Simulation-to-Real Transfer by Learning Composable Robot Skills"
+date:   2018-11-05 00:00:00 +00:00
+image: images/iser2018.png
+categories: research
+author: "Ryan Julian"
+authors: "<strong>Ryan Julian</strong>, Eric Heiden, Zhanpeng He, Hejia Zhang, Stefan Schaal, Joseph J. Lim, Gaurav S. Sukhatme, and Karol Hausman"
+venue: "International Symposium on Experimental Robotics"
+arxiv: https://arxiv.org/abs/1809.10253
+slides: /pdfs/iser2018_slides.pdf
+video: https://www.youtube.com/watch?v=Syr2RQTHqTs&t=1s
+code: https://github.com/ryanjulian/embed2learn
+---
+
+We push robot manipulation skill representation learning into the real world, and show that skill embeddings can greatly improve the sample efficiency of sim2real robot learning. Using real robot manipulation experiments, we evaluate several approaches for exploiting learned skill spaces, including interpolating between known tasks, end-to-end learning with skill embeddings as macro actions, and search-based planning in the learned latent space.

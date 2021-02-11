@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Performance Analysis and Terrain Classification for a Legged Robot Over Rough Terrain"
+date:   2012-10-07 00:00:00 +00:00
+image: images/iros2012.png
+categories: research
+author: "Ryan Julian"
+authors: "Fernando L. Garcia Bermudez, <strong>Ryan Julian</strong>, Duncan W. Haldane, Pieter Abbeel, Ronald S. Fearing"
+venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems"
+paper: pdfs/iros2012.pdf
+code: https://github.com/ryanjulian/iros2012
+---
+
+We present an accurate, robust, and low-lag terrain classification algorithm for ultra-lightweight walking ground robots. The classifier uses only vibration data from the on-board intertial measurement unit (IMU) and back-EMF sensors. Lightweight running robots experience intense vibratonal coupling with the ground, which is realized as extreme broad-spectrum noise at the IMU and back-EMF signals. Conventional methods cannot cope with noise of this magnitude and bandwidth. We introduce a novel method-of-moments kernel, and apply it to a support vector machine (SVM) to escape this limitation. Our novel classifier achieves 94% overall classification accuracy across 3 test terrains.
